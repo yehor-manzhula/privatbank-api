@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/egor-manjula/privatbank-merchant#readme",
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "moment": "^2.17.1",
     "xml2json": "^0.11.0"
   }
 }
