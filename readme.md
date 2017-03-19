@@ -11,7 +11,7 @@ npm install privatbank-api --save
 ```
 
 ## Usage
-q
+
 ```
 const Merchant = require('privatbank-api');
 
