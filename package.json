@@ -11,6 +11,7 @@
     "url": "git+https://github.com/egor-manjula/privatbank-api.git"
   },
   "author": "Manzhula Egor",
+  "keywords": ["privatbank", "merchant", "client", "api"],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/egor-manjula/privatbank-api/issues"
